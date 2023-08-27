@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "joystick-test-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "joystick start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@joystick.js/node": "^1.0.0-beta.169",
+    "@joystick.js/test": "^1.0.0-beta.3",
+    "@joystick.js/ui": "^1.0.0-beta.88"
+  }
+}
